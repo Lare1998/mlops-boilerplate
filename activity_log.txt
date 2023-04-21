@@ -127,3 +127,4 @@ Activity on 2023-04-17 00:00:00 - chore: Update CI/CD runners
 Activity on 2023-04-17 00:00:00 - chore: Migrate to new hosting provider
 Activity on 2023-04-19 00:00:00 - feat: Implement pagination for results
 Activity on 2023-04-19 00:00:00 - chore: Bump version number
+Activity on 2023-04-21 00:00:00 - test: Use fixtures for test data
