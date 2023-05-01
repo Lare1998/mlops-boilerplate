@@ -3680,3 +3680,5 @@ Commit 190 on 2023-04-24 00:00:00 - perf: Reduce network requests
 Commit 191 on 2023-04-24 00:00:00 - ci: Add performance benchmarks
 Commit 192 on 2023-04-27 00:00:00 - refactor: Use dependency injection
 Commit 193 on 2023-04-28 00:00:00 - perf: Reduce bundle size
+Commit 194 on 2023-05-01 00:00:00 - build: Set up release branches
+Commit 195 on 2023-05-01 00:00:00 - refactor: Use context managers
