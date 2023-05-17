@@ -158,3 +158,4 @@ Activity on 2023-05-10 00:00:00 - style: Standardize error messages
 Activity on 2023-05-11 00:00:00 - style: Consistent variable naming
 Activity on 2023-05-16 00:00:00 - chore: Migrate to new hosting provider
 Activity on 2023-05-16 00:00:00 - fix: Correct off-by-one errors
+Activity on 2023-05-17 00:00:00 - ci: Add end-to-end testing framework
