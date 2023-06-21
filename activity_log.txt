@@ -205,3 +205,5 @@ Activity on 2023-06-16 00:00:00 - feat: Add internationalization support
 Activity on 2023-06-16 00:00:00 - style: Standardize error messages
 Activity on 2023-06-19 00:00:00 - chore: Clean up unused files and resources
 Activity on 2023-06-20 00:00:00 - style: Use black for formatting
+Activity on 2023-06-21 00:00:00 - chore: Migrate to new hosting provider
+Activity on 2023-06-21 00:00:00 - docs: Add FAQ section
