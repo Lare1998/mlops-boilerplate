@@ -3310,3 +3310,6 @@ Commit 85 on 2023-06-21 12:37:51 - refactor: Use design patterns
 Commit 86 on 2023-06-21 12:37:51 - style: Format code according to PEP8 guidelines
 Commit 87 on 2023-06-21 12:37:51 - style: Use f-strings for formatting
 Commit 88 on 2023-06-21 12:37:51 - build: Set up cross-compilation
+Commit 89 on 2023-06-22 12:37:51 - style: Standardize error messages
+Commit 90 on 2023-06-22 12:37:51 - docs: Add API documentation
+Commit 91 on 2023-06-22 12:37:51 - chore: Clean up unused files and resources
