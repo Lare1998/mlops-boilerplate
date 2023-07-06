@@ -3326,3 +3326,5 @@ Commit 101 on 2023-06-30 12:37:51 - docs: Add contribution guidelines
 Commit 102 on 2023-07-03 12:37:51 - ci: Add end-to-end testing framework
 Commit 103 on 2023-07-03 12:37:51 - feat: Integrate with third-party API
 Commit 104 on 2023-07-04 12:37:51 - chore: Bump version number
+Commit 105 on 2023-07-05 12:37:51 - docs: Update README with installation instructions
+Commit 106 on 2023-07-05 12:37:51 - docs: Add troubleshooting guide
