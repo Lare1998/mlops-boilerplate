@@ -3402,3 +3402,4 @@ Commit 177 on 2023-08-24 12:37:51 - chore: Configure environment variables
 Commit 178 on 2023-08-24 12:37:51 - docs: Create quick start guide
 Commit 179 on 2023-08-25 12:37:51 - chore: Update CI/CD runners
 Commit 180 on 2023-08-25 12:37:51 - chore: Migrate to new hosting provider
+Commit 181 on 2023-08-28 12:37:51 - chore: Clean up unused files and resources
