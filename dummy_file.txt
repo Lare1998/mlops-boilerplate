@@ -3413,3 +3413,5 @@ Commit 188 on 2023-09-04 12:37:51 - chore: Migrate to new hosting provider
 Commit 189 on 2023-09-04 12:37:51 - chore: Migrate to new hosting provider
 Commit 190 on 2023-09-04 12:37:51 - style: Adjust indentation and spacing
 Commit 191 on 2023-09-04 12:37:51 - ci: Integrate with SonarQube
+Commit 192 on 2023-09-05 12:37:51 - refactor: Remove redundant code
+Commit 193 on 2023-09-05 12:37:51 - build: Set up cross-compilation
