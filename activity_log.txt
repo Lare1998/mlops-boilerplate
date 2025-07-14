@@ -2609,3 +2609,5 @@ Activity on 2025-07-10 00:00:00 - fix: Correct off-by-one errors
 Activity on 2025-07-10 00:00:00 - chore: Bump version number
 Activity on 2025-07-11 00:00:00 - docs: Generate Sphinx documentation
 Activity on 2025-07-11 00:00:00 - docs: Add API documentation
+Activity on 2025-07-14 00:00:00 - style: Use f-strings for formatting
+Activity on 2025-07-14 00:00:00 - build: Fix Dockerfile issues
