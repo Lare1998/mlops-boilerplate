@@ -2726,3 +2726,5 @@ Activity on 2025-09-29 00:00:00 - build: Set up release branches
 Activity on 2025-09-29 00:00:00 - chore: Update CI/CD runners
 Activity on 2025-09-30 00:00:00 - test: Use fixtures for test data
 Activity on 2025-09-30 00:00:00 - style: Use f-strings for formatting
+Activity on 2025-10-01 00:00:00 - style: Standardize error messages
+Activity on 2025-10-01 00:00:00 - chore: Update license information
