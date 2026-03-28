@@ -1,0 +1,4 @@
+tensorflow
+kubernetes
+docker
+terraform
